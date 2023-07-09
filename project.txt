@@ -1,0 +1,7 @@
+astrozerks — 07/06/2023 11:11 PM
+Im Planning on making a fan page for a show called "The Boy's"
+I really passionate  about the show. 
+I didn't find fan pages like this so that is a problem needed to be solved. 
+I belive it will bring the community of fans closer together
+I will be using Python stack. It will have the standered login ands registration
+it is left out to make room for the core part of the Planning.
